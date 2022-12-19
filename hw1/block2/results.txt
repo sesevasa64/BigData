@@ -1,0 +1,14 @@
+# Classic way:
+>> python3 calc_mean_and_var.py
+>> 152.7206871868289, 57672.84569843359
+# Hadoop MapReduce Streaming:
+>> mapred streaming -files mean_mapper.py,mean_reducer.py \
+    -input input.csv -output output10 \
+    -mapper mean_mapper.py -reducer mean_reducer.py
+>> hdfs dfs -cat /user/root/output10/part-00000
+>> 48895 152.7206871868289
+>> mapred streaming -files var_mapper.py,var_reducer.py \
+    -input input.csv -output output11 \
+    -mapper var_mapper.py -reducer var_reducer.py
+>> hdfs dfs -cat /user/root/output11/part-00000
+>> 48895 152.7206871868289 57672.845698434016	
