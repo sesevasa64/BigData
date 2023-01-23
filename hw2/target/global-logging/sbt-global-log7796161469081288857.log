@@ -1,0 +1,4 @@
+[debug] > Exec(__stopWatch network-1, None, None)
+[debug] > Exec(shell, None, None)
+[info] shutting down sbt server
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])

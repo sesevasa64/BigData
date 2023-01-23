@@ -1,0 +1,14 @@
+[debug] Created transactional ClassFileManager with tempDir = D:\Projects\BigData\hw2\made_example\target\scala-2.12\test-classes.bak
+[debug] About to delete class files:
+[debug] 	LinearRegressionTest$$typecreator5$1.class
+[debug] 	LinearRegressionTest$.class
+[debug] 	LinearRegressionTest.class
+[debug] We backup class files:
+[debug] 	LinearRegressionTest$$typecreator5$1.class
+[debug] 	LinearRegressionTest$.class
+[debug] 	LinearRegressionTest.class
+[debug] Registering generated classes:
+[debug] 	LinearRegressionTest$.class
+[debug] 	LinearRegressionTest.class
+[debug] 	LinearRegressionTest$$typecreator5$1.class
+[debug] Removing the temporary directory used for backing up class files: D:\Projects\BigData\hw2\made_example\target\scala-2.12\test-classes.bak

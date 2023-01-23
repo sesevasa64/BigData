@@ -1,0 +1,4 @@
+[warn] D:\Projects\BigData\hw2\made_example\src\main\scala\org\apache\spark\ml\made\LinearRegression.scala:10:39: imported `LinearRegression' is permanently hidden by definition of object LinearRegression in package made
+[warn] import org.apache.spark.ml.regression.LinearRegression
+[warn]                                       ^
+[warn] one warning found

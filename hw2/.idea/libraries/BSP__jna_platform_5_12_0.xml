@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BSP: jna-platform-5.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.17/org.scala-sbt/sbt/1.8.0/jna-platform-5.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

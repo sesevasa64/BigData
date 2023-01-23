@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BSP: lm-coursier-shaded_2.12-2.0.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sbt/boot/scala-2.12.17/org.scala-sbt/sbt/1.8.0/lm-coursier-shaded_2.12-2.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

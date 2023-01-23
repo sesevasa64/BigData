@@ -1,0 +1,5 @@
+[debug] > Exec(__stopWatch network-1, None, None)
+[debug] > Exec(shell, None, None)
+[info] sbt server started at local:sbt-server-259b70cfc13342c2f949
+[debug] Writing bsp connection file
+[info] started sbt server

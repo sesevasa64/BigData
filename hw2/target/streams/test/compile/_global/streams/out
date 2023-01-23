@@ -1,0 +1,5 @@
+[error] D:\Projects\BigData\hw2\made_example\src\test\scala\org\apache\spark\ml\made\LinearRegressionTest.scala:30:9: value toDF is not a member of Seq[org.apache.spark.ml.linalg.Vector]
+[error] possible cause: maybe a semicolon is missing before `value toDF'?
+[error]       ).toDF()
+[error]         ^
+[error] one error found

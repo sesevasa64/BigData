@@ -1,0 +1,38 @@
+[debug] Created transactional ClassFileManager with tempDir = D:\Projects\BigData\hw2\made_example\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] 	LinearRegressionModel$.class
+[debug] 	LinearRegressionModel$$anon$2.class
+[debug] 	LinearRegression$.class
+[debug] 	LinearRegression$$typecreator1$1.class
+[debug] 	LinearRegressionParams.class
+[debug] 	LinearRegressionModel$$anon$1$$typecreator1$3.class
+[debug] 	LinearRegressionModel.class
+[debug] 	LinearRegression.class
+[debug] 	LinearRegressionModel$$typecreator1$2.class
+[debug] 	LinearRegressionModel$$anon$1.class
+[debug] 	LinearRegressionModel$$anon$2$$typecreator1$4.class
+[debug] We backup class files:
+[debug] 	LinearRegressionModel$.class
+[debug] 	LinearRegressionModel$$anon$2.class
+[debug] 	LinearRegression$.class
+[debug] 	LinearRegression$$typecreator1$1.class
+[debug] 	LinearRegressionParams.class
+[debug] 	LinearRegressionModel$$anon$1$$typecreator1$3.class
+[debug] 	LinearRegressionModel.class
+[debug] 	LinearRegression.class
+[debug] 	LinearRegressionModel$$typecreator1$2.class
+[debug] 	LinearRegressionModel$$anon$1.class
+[debug] 	LinearRegressionModel$$anon$2$$typecreator1$4.class
+[debug] Registering generated classes:
+[debug] 	LinearRegressionModel$.class
+[debug] 	LinearRegressionModel$$anon$2.class
+[debug] 	LinearRegression$.class
+[debug] 	LinearRegression$$typecreator1$1.class
+[debug] 	LinearRegressionParams.class
+[debug] 	LinearRegressionModel$$anon$1$$typecreator1$3.class
+[debug] 	LinearRegressionModel.class
+[debug] 	LinearRegression.class
+[debug] 	LinearRegressionModel$$typecreator1$2.class
+[debug] 	LinearRegressionModel$$anon$1.class
+[debug] 	LinearRegressionModel$$anon$2$$typecreator1$4.class
+[debug] Removing the temporary directory used for backing up class files: D:\Projects\BigData\hw2\made_example\target\scala-2.12\classes.bak
